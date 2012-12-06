@@ -1,1 +1,1 @@
-hello this is readme file aaaaaaaaaa
+这是一个文件，中文的，不要乱码。
